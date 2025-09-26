@@ -1,6 +1,6 @@
-# 📊 Elevate Labs – Data Analyst Internship (Task 4)
+# 📊 Elevate Labs – Data Analyst Internship (Task 3)
 
-## 📝 Task 4: Dashboard Design
+## 📝 Task 3: Dashboard Design
 
 ### 🎯 Objective
 To **design an interactive dashboard** for business stakeholders that provides actionable insights using KPIs, filters, and time-series analysis.  
